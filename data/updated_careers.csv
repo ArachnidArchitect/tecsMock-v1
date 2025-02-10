@@ -1,0 +1,201 @@
+Unnamed: 0,name,interest_code
+0,Editor,ACE
+1,Graphic Designer,A
+2,Photographer,RA
+3,Reporter,AIE
+4,Public Relation Specialists,EAS
+5,Sound Engineering,RAC
+6,Interpreters and Translators,CAS
+7,Announcer,AES
+8,Writers and Authors,AE
+9,Producers and Directors,AE
+10,Technical Writer,CAI
+11,Art Director,AE
+12,Set Designer,A
+13,Dancers and Choreographers,AS
+14,Actor,ASE
+15,Music Director,AE
+16,Aerospace Engineering,IRC
+17,Agriculture Engineering,RIC
+18,Media Communication and Engineering,RIC
+19,Architects and Landscape Architects,RIA
+20,Biomedical Engineers,IR
+21,Chemical Engineers,RIC
+22,Civil Engineers,RIC
+23,Management,CI
+24,Environmental Engineers,IRC
+25,Health Safety Engineers,IRC
+26,Industrial Engineers,CIR
+27,Marine Engineers and Naval Architects,RIC
+28,Material Engineers,RIC
+29,Mechanical Engineers,RIC
+30,Mining and Geological Engineers,RIC
+31,Nuclear Engineers,IRC
+32,Petroleum Engineers,RIC
+33,Healthcare,SI
+34,Business and Finance,SI
+35,Community and Social Service,SCE
+36,Manufacturing and Production,RCI
+37,Liberal Arts and Humanities,SIA
+38,Legal and Paralegal Services,CIE
+39,Computer Science,SIC
+40,Education,SR
+41,Transportation and Distribution,EC
+42,Visual And Performing Arts,SA
+43,Agriculture,RIC
+44,Psychology,SI
+45,Technology,ECI
+46,Culinary Arts and Personal Services,ERC
+47,Architecture and Engineering,ECI
+48,Sports,ISR
+49,Biomedical Sciences,IR
+50,Civil Drafter,RCA
+51,Electrical and Electronics Engineers,RIC
+52,Computer and Information Research Scientists,ICR
+53,Computer Programmers,CI
+54,Computer Support Specialists,CRI
+55,Computer System Analysts,IC
+56,Database Administrators,CI
+57,Information and Security Analysts,CI
+58,Computer Hardware Engineers,RIC
+59,Network and System Administrators,CRI
+60,Computer Network Architects,ICR
+61,Web Developers,CI
+62,Operations and Research Analysts,ECI
+63,Bioinformatics Scientists,ICR
+64,Botanist,IR
+65,Biostatistics,IC
+66,Entomologists,IR
+67,Environmental Scientists,IRC
+68,Geneticists,ICR
+69,Marine Biologists and Oceanographers,SI
+70,Molecular Biologist,IRC
+71,Neuroscientists,IRC
+72,Dietitians and Nutritionists,SI
+73,Parasitology,SI
+74,Pathology,SCI
+75,Pharmacology and Toxicologist,IRC
+76,Plant Scientists,IR
+77,Social Worker,S
+78,Accountant,CEI
+79,Research Analyst,IC
+80,Health Educator,SIC
+81,Mental Health Counselor,SI
+82,Rehabilitation Counselors,S
+83,School and Career Counselor,SE
+84,Substance Abuse and Behavioral Disorder Counselors,SIC
+85,Probation Officers and Correctional Treatment Specialists,SCE
+86,Religious Activities and Education,SE
+87,Microbiologists,IRC
+88,Biochemists and Biophysicists,IR
+89,Zoologists and Wildlife Biologists,IR
+90,Epidemiologists,IS
+91,Athletic Trainers,SRI
+92,Audiologists,ISC
+93,Medical Records and Health Information Technicians,CIS
+94,Medical Transcriptionists,CSI
+95,Occupational Therapists,SI
+96,Cardiovascular Technologists,RIC
+97,Chiropractors,SRI
+98,Dentists,IRS
+99,Diagnostic Medical Sonographer,RCI
+100,EMTs and Paramedics,SRI
+101,Medical and Clinical Laboratory Technologists,IRC
+102,Massage Therapist,SRI
+103,Occupational Therapists,SI
+104,Optometrists,ISR
+105,Orthotists and Prosthetists,RIS
+106,Pharmacists,ISC
+107,Podiatrists,IRS
+108,Veterinarians,RI
+109,Nurses,SIC
+110,Psychiatrists,IS
+111,Administrative Services Managers,ECS
+112,Advertising Promotions and Marketing Managers,ECA
+113,Architectural Engineering Managers,ECI
+114,Compensation and Benefits Managers,ECS
+115,Computer and Information Systems Managers,CEI
+116,Construction Managers,ECR
+117,Farmers Ranchers and Other Agricultural Managers,ERC
+118,Financial Managers,EC
+119,Food Service Managers,ECR
+120,Human Resources Managers,ECS
+121,Industrial Production Managers,ECR
+122,Medical and Health Services Managers,ECS
+123,Public Relations Managers,ECS
+124,Sales Managers,EC
+125,Social and Community Service Managers,ESC
+126,Natural Scinece Managers,IEC
+127,Training and Development Managers,ES
+128,Property Real Estate or Community Association Managers,EC
+129,Lawyers or Attorneys,ECI
+130,Judges,ECS
+131,Paralegals and Legal Assistants,CIE
+132,Court Reporters,C
+133,Adult Literacy and GED Teachers,S
+134,Career or Technical Education Teachers,S
+135,High School Teachers,SI
+136,Kindergarten and Elementary School Teachers,S
+137,Instructional Coordinators,SEC
+138,Middle School Teachers,SA
+139,Postsecondary Teachers,SI
+140,Preschool Teachers,SA
+141,Special Education Teachers,SIA
+142,Fashion Designers,ARE
+143,Software Developers,ICR
+144,Sports Officials,ECR
+145,Psychologists,SI
+146,Fitness Trainers or Instructors,SR
+147,Sports Facilities Managers,ISR
+148,Sports Journalists,ISR
+149,Sports Psychologists,N/A
+150,Child Counselors,S
+151,Gerontologists,IRC
+152,Chefs and Head Cooks,ERC
+153,Animal Care and Service Workers,RSC
+154,Bartenders,RCE
+155,Food and Beverage Serving or Related Worker,ECR
+156,Food Preparation Workers,RC
+157,Waiter or Waitress,SCE
+158,Barbers Hairdressers and Cosmetologists,RCS
+159,Manicurists and Pedicurists,RC
+160,Gaming Services Occupations,N/A
+161,Funeral Director,RSC
+162,Recreation Workers,SER
+163,Skincare Specialists,RS
+164,Travel Agent,ECS
+165,Event Planner,ECS
+166,Flight Attendants,CRS
+167,Concierges,SEC
+168,Lodging Managers,ECS
+169,Tour Guides and Escorts,SE
+170,Manufacturing Engineers,RIC
+171,Control System Engineer,RIC
+172,Robotics Engineer,RIC
+173,Air Traffic Controllers,CRE
+174,Airline and Commercial Pilots,RCE
+175,Bus Driver,RCS
+176,Delivery Truck Drivers,RC
+177,Hand Laborers and Material Movers,RC
+178,Heavy and Tractor trailer Truck Drivers,RC
+179,Material Moving Machine Operators,ERC
+180,Railroad Conductors and Yardmasters,RCE
+181,Subway and Streetcar Operators,RC
+182,Taxi Drivers and Chauffeurs,RCS
+183,Train Engineers and Operators,RCI
+184,Water Transportation Occupations,N/A
+185,Agricultural and Food Scientists,RC
+186,Food Processing Occupations,N/A
+187,Agricultural and Food Science Technicians,RIC
+188,Agricultural Workers,RC
+189,Accountants and Auditors,CEI
+190,Appraisers and Assessors of Real Estate,CE
+191,Budget Analysts,CEI
+192,Claims Adjusters Appraisers Examiners and Investigators,CEI
+193,Cost Estimators,CE
+194,Financial Analysts,IC
+195,Financial Examiners,CEI
+196,Human Resources Specialists,ECS
+197,Insurance Underwriters,CEI
+198,Loan Officers,CES
+199,Tax Examiners and Collectors and Revenue Agents,CE
